@@ -1,1 +1,1 @@
-# SQL_Queries
+# Big data analytics /SQL/NoSQL
